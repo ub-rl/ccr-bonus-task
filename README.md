@@ -54,7 +54,7 @@ There are two files provided in this repository:
    - The screenshot should clearly show that you're running the task on CCR.  
 
 5. **Submit the Screenshot**  
-   Upload your screenshot to the [MS Form]() shared on Piazza.
+   Complete a quiz on UBlearns > Quizzes > [Bonus] CCR before the due date
 
 ---
 
