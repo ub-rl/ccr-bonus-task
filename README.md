@@ -51,6 +51,7 @@ There are two files provided in this repository:
      - **Loss**
      - **Accuracy**
      - **Device being used (should display `cuda`)**
+     - **Your ubit name**: For VSCode and Desktop users it should show your ubitname in the terminal itself Eg ubitname@cpn-hi5-xyz. For Notebook users, there is an extra whoami command at the end of the notebook. Make sure it's output is visible.
    - The screenshot should clearly show that you're running the task on CCR.  
 
 5. **Submit the Screenshot**  
